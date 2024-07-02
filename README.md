@@ -75,24 +75,6 @@ Follow the steps below to set up the Photo Gallery application in your AWS accou
 5. **Browse and Search Photos**:
    - Browse and search for photos within the application.
 
-## Conclusion
-
-Enjoy using your serverless Photo Gallery application built with AWS services!
-
----
-
-For more details, refer to the individual service documentation on the [AWS website](https://aws.amazon.com/documentation/).
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contributing
-
-We welcome contributions to enhance this project. Please submit a pull request or open an issue to discuss your ideas.
-
-## Acknowledgments
-
-Thanks to all the contributors and the AWS community for their support and resources.
+This project belongs to Georgia Institute of Technology
