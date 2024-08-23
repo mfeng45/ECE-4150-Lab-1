@@ -78,3 +78,6 @@ Follow the steps below to set up the Photo Gallery application in your AWS accou
 ## License
 
 This project belongs to Georgia Institute of Technology
+
+## Video Demonstration of the Final Product
+Youtube Link: https://youtu.be/gCW0LtlV7EE
